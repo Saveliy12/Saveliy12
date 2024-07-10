@@ -1,16 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Савелий
+👾 Привет, Я - Савелий
 ===============================================================================================================================
 
 Начинающий бэкендер на Go/Python
 --------------------------------
 
-Я работаю с Python уже более 3 лет, и за это время я успел поработать над различными проектами, включая телеграм-боты, парсеры и другие бэкенд-приложения. Я также активно изучаю Go и применяю его для разработки бэкенда. Кроме того, я интересуюсь архитектурой построения приложений, алгоритмами и другими основами программирования. Имею базовые знания HTML, CSS и JavaScript, хотя в последнее время больше сосредоточен на бэкенде. Из баз данных, с которыми я работал - SQLite3, PostgreSQL и Docker. Я стремлюсь к постоянному развитию и изучению новых технологий. Мне интересно присоединиться к команде или проекту, где я мог бы применить свои навыки и развиваться дальше. Если у вас есть какие-либо предложения или вопросы, пожалуйста, свяжитесь со мной.
+Я работаю с Python уже более 3 лет, и за это время я успел поработать над различными проектами, включая телеграм-боты, парсеры и другие бэкенд-приложения. Я также активно изучаю Go и применяю его для разработки бэкенда. 
 
-* ✉️  You can contact me at [saveliysem123@gmail.com](mailto:saveliysem123@gmail.com)
-* 🧠  I'm learning Gin, FastAPI
-* 🤝  I'm open to collaborating on к новым интересным людям и их не менее интересным проектам!
+Кроме того, я интересуюсь архитектурой построения приложений, алгоритмами и другими основами программирования. Имею базовые знания HTML, CSS и JavaScript, хотя в последнее время больше сосредоточен на бэкенде. 
 
-### Skills
+Из баз данных, с которыми я работал - SQLite3, PostgreSQL. 
+
+Я стремлюсь к постоянному развитию и изучению новых технологий. Мне интересно присоединиться к команде или проекту, где я мог бы применить свои навыки и развиваться дальше.
+
+* ✉️  Можете связаться со мной [saveliysem123@gmail.com](mailto:saveliysem123@gmail.com)
+* 🧠  На данный момент Go/Gin, Python/FastAPI
+* 🤝  Открыт для коллаборации с новыми интересными люьмии их не менее интересным проектам!
+
+### Навыки
 
 
 <p align="left">
@@ -18,11 +24,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-### Socials
+### Контакты
 
 <p align="left"> <a href="https://discord.com/users/save1iy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Saveliy12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/20583375/save1iy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Достижения
 
 <b>My GitHub Stats</b>
 
