@@ -15,6 +15,7 @@
 * 🧠  На данный момент Go/Gin, Python/FastAPI
 * 🤝  Открыт для коллаборации с новыми интересными людьмии их не менее интересным проектам!
 
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Навыки  
