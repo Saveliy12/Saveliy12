@@ -62,5 +62,4 @@
 ## Статистика
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saveliy12&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Save1iy)](https://github.com/Saveliy12/github-readme-stats)
 
